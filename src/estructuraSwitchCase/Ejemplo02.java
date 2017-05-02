@@ -40,7 +40,7 @@ public class Ejemplo02 {
                 System.out.println("La división de los números es: "+resultado);
                 break;
             default:
-                System.out.println("Elija una opción válida.");
+                System.out.println("Elija una opción válida del 1 al 4.");
         }
     }
 }
